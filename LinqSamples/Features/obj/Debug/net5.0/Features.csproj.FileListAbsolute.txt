@@ -1,0 +1,16 @@
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.csprojAssemblyReference.cache
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.AssemblyInfoInputs.cache
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.AssemblyInfo.cs
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\Features.exe
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\Features.deps.json
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\Features.runtimeconfig.json
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\Features.runtimeconfig.dev.json
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\Features.dll
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\ref\Features.dll
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\bin\Debug\net5.0\Features.pdb
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.dll
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\ref\Features.dll
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.pdb
+C:\Users\makampos\Documents\DEV__\language-integrated-query\LinqSamples\Features\obj\Debug\net5.0\Features.genruntimeconfig.cache
